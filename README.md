@@ -7,10 +7,10 @@ Cada projeto contém uma breve descrição, tecnologias utilizadas e links relev
 
 ## 🌐 Sites / Frontend
 
-| Projeto | Descrição | Tecnologias | Demo | Repositório |
+| Projeto | Descrição | Tecnologias | Repositório |
 |--------|-----------|-------------|------|-------------|
-| Site X | Landing page responsiva | HTML, CSS, JavaScript | 🔗 | 🔗 |
-| Site Y | Projeto pessoal de estudos | React, Tailwind CSS | 🔗 | 🔗 |
+| Site X | Landing page responsiva | HTML, CSS, JavaScript | 🔗 |
+| Site Y | Projeto pessoal de estudos | React, Tailwind CSS | 🔗 |
 
 ---
 
