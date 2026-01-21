@@ -35,7 +35,7 @@ Projetos voltados para lógica, persistência de dados e desenvolvimento de apli
 | Projeto | Descrição | Tecnologias | Repositório |
 |--------|-----------|-------------|-------------|
 | SQLite BankPy | Aplicação em Python simulando um sistema bancário simples com operações CRUD no terminal | Python, SQLite3 | https://github.com/luiz-eidt-xp/sqlite_bankpy |
-| Knowdex | Plataforma web para indexação e organização de conteúdos de estudo por área e nível de conhecimento | Python, Flask, SQLite3, SQLAlchemy | https://github.com/luiz-eidt-xp/knowdex-project |
+| Knowdex | Plataforma web para indexação e organização de conteúdos de estudo por área e nível de conhecimento | Python, Flask, SQLite3 | https://github.com/luiz-eidt-xp/knowdex-project |
 
 ---
 
