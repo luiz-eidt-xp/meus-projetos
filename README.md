@@ -1,20 +1,19 @@
 # Portfólio de Projetos
 
-Este repositório funciona como um índice central dos meus projetos de programação, organizados por área de estudo e aplicação.  
+Este repositório funciona como um índice central dos meus projetos, organizados por área de estudo e aplicação.  
 O objetivo é documentar minha evolução técnica e reunir projetos práticos desenvolvidos ao longo do aprendizado.
 
 ---
 
 ## Sumário
 
-- Sites / Frontend  
-- Backend / Python  
-- Automação e Bots  
-- Informações Gerais  
+- Sites
+- Backend   
+- Scripts
 
 ---
 
-## Sites / Frontend
+## Sites
 
 Projetos focados em desenvolvimento web, interfaces e aplicações interativas.
 
@@ -28,7 +27,7 @@ Projetos focados em desenvolvimento web, interfaces e aplicações interativas.
 
 ---
 
-## Backend / Python
+## Backend
 
 Projetos voltados para lógica, persistência de dados e desenvolvimento de aplicações backend.
 
@@ -39,13 +38,13 @@ Projetos voltados para lógica, persistência de dados e desenvolvimento de apli
 
 ---
 
-## Automação e Bots
+## Scripts
 
 Projetos focados em automação de tarefas, integração com APIs externas e sistemas orientados a eventos.
 
 | Projeto | Descrição | Tecnologias | Repositório |
 |--------|-----------|-------------|-------------|
-| PyBot Discord | Bot para Discord com comandos, automações e interação via eventos utilizando a API da plataforma | Python, Discord API | https://github.com/Erick-Epifanio/PyBot-discord |
+|  |
 
 ---
 
