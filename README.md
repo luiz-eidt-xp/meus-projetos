@@ -24,9 +24,9 @@ Meu foco atual está em **redes de computadores, infraestrutura, Linux, cloud, a
 
 Projetos e laboratórios relacionados a redes de computadores, protocolos, análise de tráfego, configuração e troubleshooting.
 
-| Projeto              | Descrição                                                                  | Tecnologias | Repositório |
-| -------------------- | -------------------------------------------------------------------------- | ----------- | ----------- |
-| *Em desenvolvimento* | Novos laboratórios de redes serão adicionados conforme avanço nos estudos. | —           | —           |
+| Projeto | Descrição | Tecnologias | Repositório |
+| ------- | --------- | ----------- | ----------- |
+| **Terminal TCP Chat** | Chat cliente-servidor desenvolvido em Python utilizando sockets TCP, com suporte a múltiplos clientes, comandos de gerenciamento e execução em Windows/Termux. | Python, TCP/IP, Sockets, Threading, Termux, PyInstaller | [GitHub](https://github.com/luiz-eidt-xp/terminal-TCPchat-PY) |
 
 ### Próximos laboratórios
 
